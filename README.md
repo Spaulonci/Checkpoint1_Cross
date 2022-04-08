@@ -1,2 +1,2 @@
 # Checkpoint1_Cross
-1° checkpoint de Desenvolvimento Cross Plataform
+1° checkpoint de Desenvolvimento CrossPlataform
